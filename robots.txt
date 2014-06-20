@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://MWers.github.io/sitemap.xml 
+Sitemap: http://mwers.github.io/sitemap.xml 
